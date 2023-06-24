@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+
+.logo {
+  float: left;
+  width: 150px;
+}
+
+.logo img {
+  height: 60px;
+  width: auto;
+}
+
+
+h1 {
+  margin: 0;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.container p {
+  margin-bottom: 20px;
+}
+
+.names-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.name {
+  margin: 0 10px;
+}
+
+.name-text {
+  font-weight: bold;
+}
+
+.role {
+  display:
