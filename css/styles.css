@@ -69,11 +69,7 @@ nav ul li a.active {
   border-radius: 5px;
 }
 
-
-
-.logo {
-  float: left;
-  width: 150px;
+bjetivo da Loj
 }
 
 .logo img {
@@ -127,5 +123,20 @@ left: 350px;
 .texto {
   position: fixed;
 top: 200px;
+ font-family: 'Poppins', sans-serif;
+ text-align: center;
 
+}
+
+.logo2 {
+position: fixed;
+align-content: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: inline-block;
 }
